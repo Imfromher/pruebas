@@ -1,5 +1,5 @@
 (function(){
-
+    console.log("hola ");
     var actualizarHora = function(){
         var fecha = new Date();
         var hora = fecha.getHours();
